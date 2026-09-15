@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- I’m currently working at ScyllaDB
-- Pronouns: forget about it, its impossible
+I’m currently working at ScyllaDB
+Read more about me here https://www.linkedin.com/in/tzach/
+
 
 ### Work related links
 
