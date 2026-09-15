@@ -11,6 +11,9 @@
 ### ScyllaDB Visualization
 
 * [ScyllaDB Compaction Strategy Simulator](https://tzach.github.io/compaction-viz/)
+* [ScyllaDB Tablets Demo](https://tzach.github.io/scylladb-tablets-demo/)
+* [ScyllaDB Materialized Views & Secondary Indexes](https://tzach.github.io/scylladb-mv-viz/)
+* [ScyllaDB High-Availability Simulator](https://tzach.github.io/scylladb-ha-demo/)
 
 ### Random Cool Projects
 
